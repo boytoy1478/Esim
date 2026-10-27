@@ -3,6 +3,7 @@
 > **Audience:** Claude Code (the builder) and the founder (non-developer, building everything through Claude Code).
 > **Status:** Pre-build. Numbers marked **[verify]** are research benchmarks from Oct 2026, not quotes. Items marked **[assumption]** are working guesses to confirm.
 > **Companion files:** `esim-wholesaler-briefs.md` (wholesaler research), `influencer-discovery-strategy.md` (finding creators).
+> **Architecture:** `docs/architecture.md` is authoritative for technical design and **overrides this brief where they conflict** (e.g. hosting is Railway, not Vercel; the browser never talks to the database). Decisions and their reasons: `docs/decisions.md`.
 
 ---
 
